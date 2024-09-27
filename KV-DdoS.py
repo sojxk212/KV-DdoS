@@ -21,15 +21,14 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet KV-DdoS")
 print (''' \033[92m
-
-   .;' Mohammed Al -Ahmadi `;,
-      .;'  ,;'             `;,  `;,   KV-DdoS v2.0 (Mo-Ah)
-        .;'  ,;'  ,;'     `;,  `;,  `;,
-      ::   ::   :   ( )   :   ::   ::  Mohammed Al -Ahmadi
+          .;' Mohammed Al -Ahmadi `;,
+        .;'  ,;'             `;,  `;,   KV-DdoS v2.0 (Mo-Ah)
+       .;'  ,;'  ,;'     `;,  `;,  `;,
+        ::   ::   :   ( )   :   ::   ::  Mohammed Al -Ahmadi
         ':.  ':.  ':. /_\ ,:'  ,:'  ,:'
-       ':.  ':.    /___\    ,:'  ,:'   
-      ':.       /_____\      ,:'    https://github.com/sojxk212
-             /       \
+         ':.  ':.    /___\    ,:'  ,:'   
+          ':.       /_____\      ,:'    https://github.com/sojxk212
+                   /       \
 
  \033[0m''')
 print
